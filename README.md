@@ -6,7 +6,7 @@ A small, reproducible pipeline for gene-family analysis:
 Everything in this repository runs on a **synthetic dataset** that is generated at runtime.
 No experimental data, sample names, coordinates or expression values are shipped or required.
 
-[![CI](https://github.com/USER/genefamily-workflow/actions/workflows/ci.yml/badge.svg)](https://github.com/USER/genefamily-workflow/actions/workflows/ci.yml)
+[![CI](https://github.com/wujunhao0226/genefamily-workflow/actions/workflows/ci.yml/badge.svg)](https://github.com/wujunhao0226/genefamily-workflow/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.9%20%7C%203.11-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
