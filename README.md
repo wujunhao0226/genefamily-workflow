@@ -1,5 +1,11 @@
 # genefamily-workflow
 
+> **Author**: Junhao Wu (吴君豪) · M.S. student, College of Life Sciences and Oceanography, Shenzhen University
+> **Contact**: wujunhao0226@gmail.com
+>
+> 中文简介：一个可复现的基因家族分析流程（HMM 搜索 → 多序列比对 → 最大似然建树 → 结构域/表达出图），
+> 用合成数据做 CI，一条命令跑通，适合用来批量做基因家族鉴定或公共数据挖掘。
+
 A small, reproducible pipeline for gene-family analysis:
 **domain-based discovery → multiple sequence alignment → maximum-likelihood phylogeny → structure / domain / expression figures**.
 
