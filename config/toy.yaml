@@ -1,0 +1,15 @@
+seeds: data/toy/seeds.faa
+hmm: results/profile.hmm
+proteome: data/toy/proteome.faa
+gff: data/toy/annotation.gff3
+counts: data/toy/counts.tsv
+domains: data/toy/rpsblast_hits.tsv
+groups: data/toy/groups.tsv
+tree: data/toy/toy_tree.nwk
+results: results
+evalue: 1.0e-5
+aligner: auto
+model: MFP
+ufboot: 1000
+formats: png,pdf
+dpi: 300

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite the repository."
+title: "genefamily-workflow: reproducible gene-family analysis pipeline"
+abstract: >-
+  A small Python pipeline that runs profile-HMM discovery, multiple sequence
+  alignment, maximum-likelihood phylogeny, domain/structure summarisation and
+  expression figures on a fully synthetic dataset.
+authors:
+  - family-names: "Your"
+    given-names: "Name"
+version: 0.1.0
+date-released: "2026-11-02"
+license: MIT
+repository-code: "https://github.com/USER/genefamily-workflow"
