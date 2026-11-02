@@ -10,6 +10,15 @@ No experimental data, sample names, coordinates or expression values are shipped
 ![Python](https://img.shields.io/badge/python-3.9%20%7C%203.11-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## Example output
+
+Both panels come from the synthetic demo (`bash scripts/run_toy_pipeline.sh`); no experimental data is involved.
+
+<p align="center">
+  <img src="docs/figures/circular_tree.png" width="46%" alt="circular phylogeny of the synthetic gene family">
+  <img src="docs/figures/expression_heatmap.png" width="46%" alt="expression heatmap of the synthetic dataset">
+</p>
+
 ---
 
 ## Why
