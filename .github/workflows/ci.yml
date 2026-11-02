@@ -42,6 +42,11 @@ jobs:
       - uses: mamba-org/setup-micromamba@v3
         with:
           environment-name: gf
+          condarc: |
+            channels:
+              - conda-forge
+              - bioconda
+            channel_priority: strict
           create-args: >-
             python=3.11
             hmmer
